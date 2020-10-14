@@ -3,3 +3,6 @@ demonstração de objetos voadores seguindo jogador e voltando para um certo loc
 O objeto tem um determinado raio de deteccão, quando o jogador entre nesse raio, o objeto começa a seguir ele, a uma certa distância.
 Quando o jogador sai do raio de deteccão o objeto volta para um certo ponto(Uma casa, por exemplo).
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
