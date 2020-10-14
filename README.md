@@ -4,5 +4,5 @@ O objeto tem um determinado raio de deteccão, quando o jogador entre nesse raio
 Quando o jogador sai do raio de deteccão o objeto volta para um certo ponto(Uma casa, por exemplo).
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="/imgs/ilus1.png" />
 </p>
