@@ -6,3 +6,9 @@ Quando o jogador sai do raio de deteccão o objeto volta para um certo ponto(Uma
 <p align="center">
   <img src="/imgs/ilus1.png" />
 </p>
+
+* quando o robo se aproxima da teia o morcego começa a segui-lo.
+
+<p align="center">
+  <img src="/imgs/ilus2.png" />
+</p>
